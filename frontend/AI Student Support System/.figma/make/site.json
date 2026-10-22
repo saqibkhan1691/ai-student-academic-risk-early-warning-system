@@ -1,0 +1,10 @@
+{
+  "description": "Enables mentors, teachers, and students to track academic risks, assign improvement tasks, and monitor progress through role-specific dashboards.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

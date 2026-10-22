@@ -1,0 +1,101 @@
+{
+  "target": "ese_below_40_percent",
+  "target_status": "provisional, synthetic dataset",
+  "disclaimer": "Predictions are experimental; dataset is synthetic; not validated for real students.",
+  "subject_predictor": "subject_key (composite department_code + '_' + subject_id)",
+  "excluded_features": [
+    "ese_below_40_percent",
+    "student_id",
+    "ese_percentage",
+    "student_name",
+    "subject_id",
+    "subject_name"
+  ],
+  "best_by_macro_f1": "random_forest",
+  "results": {
+    "logistic_regression": {
+      "accuracy": 0.7867211879909609,
+      "macro_f1": 0.6568520687923189,
+      "below_40_recall": 0.8208032955715757,
+      "classification_report": {
+        "40% or above": {
+          "precision": 0.9739832535885168,
+          "recall": 0.7827445325642874,
+          "f1-score": 0.8679546968687541,
+          "support": 8322.0
+        },
+        "Below 40%": {
+          "precision": 0.30595009596928985,
+          "recall": 0.8208032955715757,
+          "f1-score": 0.4457494407158837,
+          "support": 971.0
+        },
+        "accuracy": 0.7867211879909609,
+        "macro avg": {
+          "precision": 0.6399666747789033,
+          "recall": 0.8017739140679316,
+          "f1-score": 0.6568520687923189,
+          "support": 9293.0
+        },
+        "weighted avg": {
+          "precision": 0.9041823070644376,
+          "recall": 0.7867211879909609,
+          "f1-score": 0.8238396313652099,
+          "support": 9293.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          6514,
+          1808
+        ],
+        [
+          174,
+          797
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.8671042720327128,
+      "macro_f1": 0.7061207772572453,
+      "below_40_recall": 0.607621009268795,
+      "classification_report": {
+        "40% or above": {
+          "precision": 0.9514587845585425,
+          "recall": 0.897380437394857,
+          "f1-score": 0.9236287180755673,
+          "support": 8322.0
+        },
+        "Below 40%": {
+          "precision": 0.4085872576177285,
+          "recall": 0.607621009268795,
+          "f1-score": 0.4886128364389234,
+          "support": 971.0
+        },
+        "accuracy": 0.8671042720327128,
+        "macro avg": {
+          "precision": 0.6800230210881355,
+          "recall": 0.7525007233318259,
+          "f1-score": 0.7061207772572453,
+          "support": 9293.0
+        },
+        "weighted avg": {
+          "precision": 0.8947356324376418,
+          "recall": 0.8671042720327128,
+          "f1-score": 0.8781751055640876,
+          "support": 9293.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          7468,
+          854
+        ],
+        [
+          381,
+          590
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Environments & secrets
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Frontend artifacts (for future sibling integration)
+node_modules/
+.next/
+dist/
+out/
+.npm/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

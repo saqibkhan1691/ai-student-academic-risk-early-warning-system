@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "shap_version": "0.54.1",
+  "warnings": [
+    "The academic dataset contains synthetic/demo records.",
+    "SHAP values describe model contributions, not causality.",
+    "Risk thresholds and predictions are not validated for real institutional use.",
+    "This run explains a sample, not the complete dataset."
+  ],
+  "dataset_rows": 47550,
+  "prediction_rows": 47550,
+  "identity_columns_verified": [
+    "student_id",
+    "subject_key",
+    "subject_id",
+    "semester"
+  ],
+  "raw_feature_count": 17,
+  "raw_feature_mapping_verified": true,
+  "transformed_feature_count": 257,
+  "transformed_feature_mapping_verified": true,
+  "max_saved_prediction_difference": 2.220446049250313e-16,
+  "max_probability_reconstruction_error": 4.440892098500626e-16,
+  "max_csv_additivity_error": 4.440892098500626e-16,
+  "explained_records": 100,
+  "feature_contributions_saved": 1100,
+  "output_file": "C:\\Projects\\student-academic-risk-early-warning-system\\ml\\reports\\individual_shap_explanations.csv",
+  "validation_file": "C:\\Projects\\student-academic-risk-early-warning-system\\ml\\reports\\shap_validation_report.json"
+}

@@ -1,0 +1,232 @@
+﻿department_code,semester,subject_id,subject_name,component,credits
+CS,1,EE101B,IoT and Embedded Systems,THEORY,2
+CS,1,EE101P,IoT and Embedded System Lab,PRACTICAL,1
+CS,1,HS101B,Communication Skills,THEORY,2
+CS,1,HS137B,Self Growth (Makeup And Props),AUDIT,0
+CS,1,ID103B,Design Thinking,THEORY,1
+CS,1,IT101B,Programming for Problem Solving,THEORY,3
+CS,1,IT101P,Programming for Problem Solving Lab,PRACTICAL,2
+CS,1,IT102B,Web Designing,THEORY,1
+CS,1,MA101L,Calculus for Engineers,THEORY,4
+CS,1,MA202L,Discrete Structures & Theory of Logic,THEORY,3
+CS,1,PH101L,Semiconductor Physics and Devices,THEORY,3
+CS,1,PH101P,Semiconductor Physics and Devices Lab,PRACTICAL,1
+CS,2,AI102P,Python for Engineers,PRACTICAL,2
+CS,2,CH101L,Environmental Chemistry,THEORY,2
+CS,2,CS201B,Data Structure,THEORY,4
+CS,2,EC201L,Computer Organization & Logic Design,THEORY,3
+CS,2,EC201P,Computer Organization & Logic Design Lab,PRACTICAL,1
+CS,2,HS106B,Foreign Language (Basic Proficiency in Spanish),THEORY,2
+CS,2,HS189B,Indian Knowledge System,AUDIT,0
+CS,2,ID104B,Innovation and Entrepreneurship,THEORY,1
+CS,2,MA103L,Linear Algebra for Engineers,THEORY,4
+CS,2,ME101B,Design & Realization,THEORY,2
+CS,2,ME101P,Design and Realization Lab,PRACTICAL,1
+CS,3,CS205B,Artificial Intelligence and Its Applications,THEORY,4
+CS,3,CS206L,Operating System,THEORY,3
+CS,3,CS206P,Operating System Lab,PRACTICAL,1
+CS,3,CS301L,Object Oriented Programming using Java,THEORY,3
+CS,3,CS301P,Object Oriented Programming using Java Lab,PRACTICAL,1
+CS,3,CS302B,Advance Data Structure,THEORY,4
+CS,3,HS109L,Constitution of India,AUDIT,0
+CS,3,HS110L,Aptitude-1,THEORY,1
+CS,3,HS111L,Soft Skills Essential-1,THEORY,0
+CS,3,IT105P,Social Internship Assessment,PRACTICAL,1
+CS,3,IT301L,Database Systems,THEORY,3
+CS,3,IT301P,Database Systems Lab,PRACTICAL,1
+CS,3,MA105L,Probability and Statistics,THEORY,3
+CS,4,CS208B,Web Technology,THEORY,3
+CS,4,CS303B,ANN and Machine Learning,THEORY,3
+CS,4,CS307E,Intelligent Systems with Text & Vision API,PROFESSIONAL ELECTIVE-I,4
+CS,4,CS401L,Design and Analysis of Algorithms,THEORY,3
+CS,4,CS401P,Design and Analysis of Algorithms Lab,PRACTICAL,1
+CS,4,HS112L,Universal Human Values,THEORY,3
+CS,4,HS113L,Aptitude-2,THEORY,1
+CS,4,HS114L,Soft Skills Essential-2,THEORY,0
+CS,4,IT202B,Data Analytics,THEORY,3
+CS,4,IT302L,Computer Networks,THEORY,3
+CS,4,IT302P,Computer Networks Lab,PRACTICAL,1
+CS,5,CS308E,AIOps & Model Deployment,PROFESSIONAL ELECTIVE-II,4
+CS,5,CS310L,Theory of Computation,THEORY,3
+CS,5,CS311L,Software Engineering and Design,THEORY,3
+CS,5,CS311P,Software Engineering Lab,PRACTICAL,1
+CS,5,CS312B,Deep Learning and Gen AI,BLENDED,3
+CS,5,CS313P,Problem Solving Lab-1,PRACTICAL,2
+CS,5,HS203L,Aptitude - 3,THEORY,1
+CS,5,HS204L,Soft Skills for Employability - 1,THEORY,2
+CS,5,IT401B,Advance Databases,BLENDED,4
+CSE,1,CSE101L,Programming Fundamentals,THEORY,4
+CSE,1,CSE102L,Mathematics for Computing,THEORY,3
+CSE,1,CSE103L,Digital Systems,THEORY,3
+CSE,1,CSE104L,Data Structures,THEORY,4
+CSE,1,CSE105L,Operating Systems,THEORY,3
+CSE,2,CSE201L,Digital Systems,THEORY,4
+CSE,2,CSE202L,Data Structures,THEORY,3
+CSE,2,CSE203L,Operating Systems,THEORY,3
+CSE,2,CSE204L,Database Systems,THEORY,4
+CSE,2,CSE205L,Computer Networks,THEORY,3
+CSE,3,CSE301L,Operating Systems,THEORY,4
+CSE,3,CSE302L,Database Systems,THEORY,3
+CSE,3,CSE303L,Computer Networks,THEORY,3
+CSE,3,CSE304L,Software Engineering,THEORY,4
+CSE,3,CSE305L,Artificial Intelligence,THEORY,3
+CSE,4,CSE401L,Computer Networks,THEORY,4
+CSE,4,CSE402L,Software Engineering,THEORY,3
+CSE,4,CSE403L,Artificial Intelligence,THEORY,3
+CSE,4,CSE404L,Theory of Computation,THEORY,4
+CSE,4,CSE405L,Cloud and DevOps,THEORY,3
+CSE,5,CSE501L,Artificial Intelligence,THEORY,4
+CSE,5,CSE502L,Theory of Computation,THEORY,3
+CSE,5,CSE503L,Cloud and DevOps,THEORY,3
+CSE,5,CSE504P,Capstone Lab,PRACTICAL,1
+CSE,5,CSE5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+CSE-AIML,1,CSEAIML101L,Programming for AI,THEORY,4
+CSE-AIML,1,CSEAIML102L,Mathematics for Machine Learning,THEORY,3
+CSE-AIML,1,CSEAIML103L,Data Structures,THEORY,3
+CSE-AIML,1,CSEAIML104L,Probability and Statistics,THEORY,4
+CSE-AIML,1,CSEAIML105L,Artificial Intelligence,THEORY,3
+CSE-AIML,2,CSEAIML201L,Data Structures,THEORY,4
+CSE-AIML,2,CSEAIML202L,Probability and Statistics,THEORY,3
+CSE-AIML,2,CSEAIML203L,Artificial Intelligence,THEORY,3
+CSE-AIML,2,CSEAIML204L,Machine Learning,THEORY,4
+CSE-AIML,2,CSEAIML205L,Deep Learning,THEORY,3
+CSE-AIML,3,CSEAIML301L,Artificial Intelligence,THEORY,4
+CSE-AIML,3,CSEAIML302L,Machine Learning,THEORY,3
+CSE-AIML,3,CSEAIML303L,Deep Learning,THEORY,3
+CSE-AIML,3,CSEAIML304L,Natural Language Processing,THEORY,4
+CSE-AIML,3,CSEAIML305L,Computer Vision,THEORY,3
+CSE-AIML,4,CSEAIML401L,Deep Learning,THEORY,4
+CSE-AIML,4,CSEAIML402L,Natural Language Processing,THEORY,3
+CSE-AIML,4,CSEAIML403L,Computer Vision,THEORY,3
+CSE-AIML,4,CSEAIML404L,MLOps,THEORY,4
+CSE-AIML,4,CSEAIML405L,Generative AI,THEORY,3
+CSE-AIML,5,CSEAIML501L,Computer Vision,THEORY,4
+CSE-AIML,5,CSEAIML502L,MLOps,THEORY,3
+CSE-AIML,5,CSEAIML503L,Generative AI,THEORY,3
+CSE-AIML,5,CSEAIML504P,AI Project Lab,PRACTICAL,1
+CSE-AIML,5,CSEAIML5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+CSIT,1,CSIT101L,Programming Fundamentals,THEORY,4
+CSIT,1,CSIT102L,Discrete Mathematics,THEORY,3
+CSIT,1,CSIT103L,Data Structures,THEORY,3
+CSIT,1,CSIT104L,Operating Systems,THEORY,4
+CSIT,1,CSIT105L,Database Systems,THEORY,3
+CSIT,2,CSIT201L,Data Structures,THEORY,4
+CSIT,2,CSIT202L,Operating Systems,THEORY,3
+CSIT,2,CSIT203L,Database Systems,THEORY,3
+CSIT,2,CSIT204L,Computer Networks,THEORY,4
+CSIT,2,CSIT205L,Web Technologies,THEORY,3
+CSIT,3,CSIT301L,Database Systems,THEORY,4
+CSIT,3,CSIT302L,Computer Networks,THEORY,3
+CSIT,3,CSIT303L,Web Technologies,THEORY,3
+CSIT,3,CSIT304L,Software Engineering,THEORY,4
+CSIT,3,CSIT305L,Information Security,THEORY,3
+CSIT,4,CSIT401L,Web Technologies,THEORY,4
+CSIT,4,CSIT402L,Software Engineering,THEORY,3
+CSIT,4,CSIT403L,Information Security,THEORY,3
+CSIT,4,CSIT404L,Cloud Computing,THEORY,4
+CSIT,4,CSIT405L,Data Analytics,THEORY,3
+CSIT,5,CSIT501L,Information Security,THEORY,4
+CSIT,5,CSIT502L,Cloud Computing,THEORY,3
+CSIT,5,CSIT503L,Data Analytics,THEORY,3
+CSIT,5,CSIT504P,Project Lab,PRACTICAL,1
+CSIT,5,CSIT5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+IT,1,IT101L,Programming Fundamentals,THEORY,4
+IT,1,IT102L,Mathematics for IT,THEORY,3
+IT,1,IT103L,Data Structures,THEORY,3
+IT,1,IT104L,Database Management Systems,THEORY,4
+IT,1,IT105L,Operating Systems,THEORY,3
+IT,2,IT201L,Data Structures,THEORY,4
+IT,2,IT202L,Database Management Systems,THEORY,3
+IT,2,IT203L,Operating Systems,THEORY,3
+IT,2,IT204L,Computer Networks,THEORY,4
+IT,2,IT205L,Web Technologies,THEORY,3
+IT,3,IT301L,Operating Systems,THEORY,4
+IT,3,IT302L,Computer Networks,THEORY,3
+IT,3,IT303L,Web Technologies,THEORY,3
+IT,3,IT304L,Software Engineering,THEORY,4
+IT,3,IT305L,Cyber Security,THEORY,3
+IT,4,IT401L,Web Technologies,THEORY,4
+IT,4,IT402L,Software Engineering,THEORY,3
+IT,4,IT403L,Cyber Security,THEORY,3
+IT,4,IT404L,Cloud Computing,THEORY,4
+IT,4,IT405L,Data Analytics,THEORY,3
+IT,5,IT501L,Cyber Security,THEORY,4
+IT,5,IT502L,Cloud Computing,THEORY,3
+IT,5,IT503L,Data Analytics,THEORY,3
+IT,5,IT504P,IT Project Lab,PRACTICAL,1
+IT,5,IT5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+ECE,1,ECE101L,Basic Electronics,THEORY,4
+ECE,1,ECE102L,Engineering Mathematics,THEORY,3
+ECE,1,ECE103L,Circuit Theory,THEORY,3
+ECE,1,ECE104L,Electronic Devices,THEORY,4
+ECE,1,ECE105L,Signals and Systems,THEORY,3
+ECE,2,ECE201L,Circuit Theory,THEORY,4
+ECE,2,ECE202L,Electronic Devices,THEORY,3
+ECE,2,ECE203L,Signals and Systems,THEORY,3
+ECE,2,ECE204L,Analog Circuits,THEORY,4
+ECE,2,ECE205L,Digital Communication,THEORY,3
+ECE,3,ECE301L,Signals and Systems,THEORY,4
+ECE,3,ECE302L,Analog Circuits,THEORY,3
+ECE,3,ECE303L,Digital Communication,THEORY,3
+ECE,3,ECE304L,Microprocessors,THEORY,4
+ECE,3,ECE305L,Embedded Systems,THEORY,3
+ECE,4,ECE401L,Digital Communication,THEORY,4
+ECE,4,ECE402L,Microprocessors,THEORY,3
+ECE,4,ECE403L,Embedded Systems,THEORY,3
+ECE,4,ECE404L,VLSI Design,THEORY,4
+ECE,4,ECE405L,Wireless Networks,THEORY,3
+ECE,5,ECE501L,Embedded Systems,THEORY,4
+ECE,5,ECE502L,VLSI Design,THEORY,3
+ECE,5,ECE503L,Wireless Networks,THEORY,3
+ECE,5,ECE504P,ECE Lab,PRACTICAL,1
+ECE,5,ECE5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+EEE,1,EEE101L,Electrical Circuits,THEORY,4
+EEE,1,EEE102L,Engineering Mathematics,THEORY,3
+EEE,1,EEE103L,Electrical Machines,THEORY,3
+EEE,1,EEE104L,Power Systems,THEORY,4
+EEE,1,EEE105L,Control Systems,THEORY,3
+EEE,2,EEE201L,Electrical Machines,THEORY,4
+EEE,2,EEE202L,Power Systems,THEORY,3
+EEE,2,EEE203L,Control Systems,THEORY,3
+EEE,2,EEE204L,Power Electronics,THEORY,4
+EEE,2,EEE205L,Electrical Measurements,THEORY,3
+EEE,3,EEE301L,Control Systems,THEORY,4
+EEE,3,EEE302L,Power Electronics,THEORY,3
+EEE,3,EEE303L,Electrical Measurements,THEORY,3
+EEE,3,EEE304L,Renewable Energy,THEORY,4
+EEE,3,EEE305L,Embedded Systems,THEORY,3
+EEE,4,EEE401L,Electrical Measurements,THEORY,4
+EEE,4,EEE402L,Renewable Energy,THEORY,3
+EEE,4,EEE403L,Embedded Systems,THEORY,3
+EEE,4,EEE404P,EEE Lab,PRACTICAL,1
+EEE,4,EEE405L,Industrial Drives,THEORY,3
+EEE,5,EEE501L,Embedded Systems,THEORY,4
+EEE,5,EEE502P,EEE Lab,PRACTICAL,1
+EEE,5,EEE503L,Industrial Drives,THEORY,3
+EEE,5,EEE504P,Project Lab,PRACTICAL,1
+EEE,5,EEE5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4
+ME,1,ME101L,Engineering Mechanics,THEORY,4
+ME,1,ME102L,Engineering Mathematics,THEORY,3
+ME,1,ME103L,Engineering Graphics,THEORY,3
+ME,1,ME104L,Thermodynamics,THEORY,4
+ME,1,ME105L,Manufacturing Processes,THEORY,3
+ME,2,ME201L,Engineering Graphics,THEORY,4
+ME,2,ME202L,Thermodynamics,THEORY,3
+ME,2,ME203L,Manufacturing Processes,THEORY,3
+ME,2,ME204L,Fluid Mechanics,THEORY,4
+ME,2,ME205L,Machine Design,THEORY,3
+ME,3,ME301L,Manufacturing Processes,THEORY,4
+ME,3,ME302L,Fluid Mechanics,THEORY,3
+ME,3,ME303L,Machine Design,THEORY,3
+ME,3,ME304L,Heat Transfer,THEORY,4
+ME,3,ME305L,CAD/CAM,THEORY,3
+ME,4,ME401L,Machine Design,THEORY,4
+ME,4,ME402L,Heat Transfer,THEORY,3
+ME,4,ME403L,CAD/CAM,THEORY,3
+ME,4,ME404L,Mechatronics,THEORY,4
+ME,4,ME405L,Industrial Engineering,THEORY,3
+ME,5,ME501L,CAD/CAM,THEORY,4
+ME,5,ME502L,Mechatronics,THEORY,3
+ME,5,ME503L,Industrial Engineering,THEORY,3
+ME,5,ME504P,Mechanical Lab,PRACTICAL,1
+ME,5,ME5PE2,Professional Elective-II,PROFESSIONAL ELECTIVE-II,4

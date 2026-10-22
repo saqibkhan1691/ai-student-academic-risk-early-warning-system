@@ -1,0 +1,23 @@
+﻿department_code,department_name,section,student_count
+CS,Computer Science,A,75
+CS,Computer Science,B,75
+CS,Computer Science,C,75
+CS,Computer Science,D,75
+CSE,Computer Science and Engineering,A,75
+CSE,Computer Science and Engineering,B,75
+CSE,Computer Science and Engineering,C,75
+CSE,Computer Science and Engineering,D,75
+CSE-AIML,Computer Science and Engineering (AI and ML),A,70
+CSE-AIML,Computer Science and Engineering (AI and ML),B,70
+CSE-AIML,Computer Science and Engineering (AI and ML),C,70
+CSIT,Computer Science and Information Technology,A,70
+CSIT,Computer Science and Information Technology,B,70
+CSIT,Computer Science and Information Technology,C,70
+IT,Information Technology,A,70
+IT,Information Technology,B,70
+IT,Information Technology,C,70
+ECE,Electronics and Communication Engineering,A,60
+ECE,Electronics and Communication Engineering,B,60
+ECE,Electronics and Communication Engineering,C,60
+EEE,Electrical and Electronics Engineering,A,60
+ME,Mechanical Engineering,A,60
